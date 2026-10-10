@@ -1,48 +1,59 @@
-# Hi, I'm Estifanos 👋
+# Full-Stack Developer | AI Integration | Building Practical Software Products
 
-Computer Science student at Bahir Dar University, Ethiopia.
+I'm Estifanos, a full-stack developer building end-to-end web applications, backend systems, and AI-enabled workflows. I focus on clean architecture, pragmatic engineering, and turning real-world problems into usable software.
 
-I build practical full-stack applications with a focus on backend engineering and AI-powered product ideas. I enjoy turning real-world problems into clean, usable software and learning by building tools that solve actual workflows.
+Based in Ethiopia and studying Computer Science at Bahir Dar University.
 
-## What I work on
+## What I build
 
-- Full-stack web apps with TypeScript, JavaScript, React, and Next.js
-- Backend systems with Node.js, NestJS, Express, and REST APIs
-- Database-driven products using PostgreSQL and Prisma
-- Clean API design, authentication, validation, and testing
-- Exploring AI integration for useful, user-centered products
+- **Full-stack applications** with TypeScript, React, Next.js, and Node.js
+- **Production-grade APIs** with authentication, validation, and clean architecture
+- **Database-driven workflows** with PostgreSQL and thoughtful data modeling
+- **AI-integrated products** exploring practical applications of machine learning and LLMs
+- **Business automation solutions** solving real operational and workflow problems
 
 ## Featured projects
 
-### [Tele-Project-Manager](https://github.com/EstifanosBesfat/tele-project-manager)
-A full-stack project management system built for workflow tracking and team coordination. The project demonstrates a monorepo setup with a Next.js frontend, NestJS API, and PostgreSQL-backed data model. It includes authentication, project/task workflows, business logic, and API documentation.
+### [Tele-Project-Manager](https://github.com/EstifanosBesfat/tele-project-manager)  
+End-to-end project management system demonstrating full-stack architecture. Built with NestJS backend, Next.js frontend, and PostgreSQL data layer in a monorepo structure. Includes role-based access control, real-time workflows, and business logic for project lifecycle management.
 
-### [Blog API](https://github.com/EstifanosBesfat/blog-api)
-A backend-focused API for a blogging platform built with Node.js, Express, PostgreSQL, and JWT-based authentication. The project emphasizes layered architecture, validation, security middleware, Swagger documentation, and test coverage for core API behaviors.
+### [Blog API](https://github.com/EstifanosBesfat/blog-api)  
+Production-ready REST API for a blogging platform. Emphasizes backend engineering fundamentals: JWT authentication, layered architecture (controllers → services → repositories), raw SQL with PostgreSQL, security middleware, API documentation via Swagger, and automated testing with Jest and Supertest.
 
-### [ConstructCMS](https://github.com/EstifanosBesfat/construct-mgmt-platform)
-A construction management platform designed to support planning, budgeting, inventory, progress tracking, and related operations. This project reflects team-based product development with a focus on domain modeling, workflow logic, API structure, and business rules.
+### [ConstructCMS](https://github.com/EstifanosBesfat/construct-mgmt-platform)  
+Team-developed construction management platform for project planning, budgeting, inventory control, and site progress tracking. Demonstrates domain-driven design, business rule validation, multi-format exports, and full-stack product architecture. Team project built with NestJS and Next.js.
 
-## Currently exploring
+## Current focus
 
-I am interested in integrating AI into practical software products and user workflows. One personal project I am exploring is a private, unfinished AI idea for Ethiopian Orthodox Tewahedo knowledge access, with Amharic as a primary language. It is not publicly available or deployed yet.
-
-## Experience
-
-I have worked on internship-related projects and academic development work in backend and full-stack development, including experience with team-based product development and practical application building. I am continuing to strengthen my engineering foundation through hands-on projects and software design work.
+I'm actively exploring **AI integration** in practical software products and workflows. One personal project in progress: **Tewahdo AI**, a private, unfinished exploration of AI-powered access to Ethiopian Orthodox Tewahedo knowledge, with Amharic language support. This is an experimental project, not yet publicly available or deployed.
 
 ## Tech stack
 
-- Languages: JavaScript, TypeScript, Java, Python
-- Frontend: React, Next.js
-- Backend: Node.js, Express, NestJS
-- Databases: PostgreSQL, Prisma
-- Tools: Docker, REST APIs, Git, Swagger, Jest, Supertest
-- Interests: API design, backend architecture, AI integration, SaaS workflows
+**Languages & Frameworks:**
+- TypeScript, JavaScript, Node.js
+- React, Next.js
+- NestJS, Express
 
-## Contact
+**Data & Architecture:**
+- PostgreSQL, Prisma ORM
+- REST APIs, raw SQL
+- Transactional patterns, schema design
 
-- Portfolio: https://estifanosbesfat.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/estifanos-besfat/
-- Email: estifanosbesfat@gmail.com
-- GitHub: https://github.com/EstifanosBesfat
+**Quality & Deployment:**
+- Jest, Supertest (testing)
+- Docker (containerization)
+- Git, GitHub
+- Swagger API documentation
+
+**Interests:**
+- Backend architecture and API design
+- AI/LLM integration in products
+- SaaS and product development
+- Business logic and workflow automation
+
+## Contact & Links
+
+- **Portfolio:** https://estifanosbesfat.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/estifanos-besfat/
+- **Email:** estifanosbesfat@gmail.com
+- **GitHub:** https://github.com/EstifanosBesfat
